@@ -3,8 +3,12 @@
 
 ## Apple Reality Covnerter 
 Platform: Mac Application
-Supports: obj, .gltf and .usd
+<br> 
+Fileformat: obj, .gltf and .usd
+<br> 
 Textures: Base color, emissive, metalic,normal,opacity, roughness, occlusion, clearcoat, clearcoat roughness
+<br> 
 Version Status: Beta
+<br> 
 
 
