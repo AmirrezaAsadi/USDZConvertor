@@ -1,5 +1,5 @@
-# USDZConvertor
-A Curated List of USDZ Covnertors
+# A Curated List of USDZ Covnertors
+
 
 ## Apple Reality Covnerter 
 Platform: Mac Application
