@@ -1,7 +1,7 @@
 # A Curated List of USDZ Covnertors
 
 
-## Apple Reality Covnerter 
+## Apple Reality Convertor 
 Platform: Mac Application
 <br> 
 Fileformat: obj, .gltf and .usd
