@@ -1,5 +1,5 @@
 # A Curated List of USDZ Covnertors
-
+.USDZ is Apple's format for Augmented Reality. Big companies such as Adobe adopted this format for Augmented Reality too.
 # Offical Tools by Apple
 ## Apple Reality Convertor 
 Platform: Mac Application
