@@ -25,6 +25,11 @@ Fileformat : glTF,FBX,OBJ,Alembic
 ARexport can convert blender files to USDZ
 https://github.com/parallax/ar-export
 
+
+# USD Unity SDK
+<br>
+USDZ Plugin for Unity can export game objects to USDZ Format
+https://blog.unity.com/technology/pixars-universal-scene-description-for-unity-out-in-preview
 # Web Based Convertors
 
 ## USDZconverter web ui
